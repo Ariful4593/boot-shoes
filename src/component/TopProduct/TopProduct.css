@@ -1,0 +1,276 @@
+/* @media screen and (max-width: 991px) and (min-width: 811px) {}*/
+@media screen and (max-width: 575px) {
+    .top-products{
+        padding: 0px !important;
+    }
+    
+    .list_item{
+        background-color: #F5F5F5;
+        padding: 10px 0px 0px 0px !important;
+        width: 25% !important;
+    }
+    .list_item .col-md-3{
+        width: 100%;
+    }
+    .tp_one{
+        background-color: #F5F5F5;
+        padding: 10px;
+        width: 30% !important;
+    }
+    .tp_one img{
+        height: 410px;
+    }
+    .card_image_area{
+        width: 40% !important;
+    }
+    .image_card{
+        background-color: #F5F5F5;
+        padding: 10px;
+    }
+    .image_card h4{
+        font-size: 14px;
+        color: #007185;
+    }
+    .list-group li{
+        font-family: inherit !important;
+        background-color: #F5F5F5;
+    }
+    .list-group li a{
+        color: black;
+    }
+    .list-group li a:hover{
+        text-decoration: none !important;
+        color: red !important;
+        transition: .5s ease-in;
+    }
+    .grid{
+        margin-top: 10px !important;
+    }
+} 
+@media screen and (max-width: 767px) and (min-width: 576px) {
+    .top-products{
+        padding: 0px !important;
+    }
+    .top-products .title hr{
+        width: 150px;
+        text-align: center;
+        margin-top: 4px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        background-color: #FA1818;
+    }
+    .list_item{
+        background-color: #F5F5F5;
+        padding: 10px 0px 0px 0px !important;
+        width: 25% !important;
+    }
+    .list_item .col-md-3{
+        width: 100%;
+    }
+    .tp_one{
+        background-color: #F5F5F5;
+        padding: 10px;
+        width: 30% !important;
+    }
+    .tp_one img{
+        height: 410px;
+    }
+    .card_image_area{
+        width: 40% !important;
+    }
+    .image_card{
+        background-color: #F5F5F5;
+        padding: 10px;
+    }
+    .image_card h4{
+        font-size: 14px;
+        color: #007185;
+    }
+    .list-group li{
+        font-family: inherit !important;
+        background-color: #F5F5F5;
+    }
+    .list-group li a{
+        color: black;
+    }
+    .list-group li a:hover{
+        text-decoration: none !important;
+        color: red !important;
+        transition: .5s ease-in;
+    }
+    .grid{
+        margin-top: 10px !important;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .top-products{
+        padding: 0px !important;
+    }
+    .top-products .title hr{
+        width: 150px;
+        text-align: center;
+        margin-top: 4px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        background-color: #FA1818;
+    }
+    .list_item{
+        background-color: #F5F5F5;
+        padding: 10px 0px 0px 0px !important;
+        width: 25% !important;
+    }
+    .list_item .col-md-3{
+        width: 100%;
+    }
+    .tp_one{
+        background-color: #F5F5F5;
+        padding: 10px;
+        width: 30% !important;
+    }
+    .tp_one img{
+        height: 410px;
+    }
+    .card_image_area{
+        width: 40% !important;
+    }
+    .image_card{
+        background-color: #F5F5F5;
+        padding: 10px;
+
+    }
+    .image_card h4{
+        font-size: 14px;
+        color: #007185;
+    }
+    .list-group li{
+        font-family: inherit !important;
+        background-color: #F5F5F5;
+    }
+    .list-group li a{
+        color: black;
+    }
+    .list-group li a:hover{
+        text-decoration: none !important;
+        color: red !important;
+        transition: .5s ease-in;
+    }
+    .grid{
+        margin-top: 10px !important;
+    }
+}
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    .top-products{
+        padding: 0px !important;
+    }
+    .top-products .title hr{
+        width: 150px;
+        text-align: center;
+        margin-top: 4px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        background-color: #FA1818;
+    }
+    .list_item{
+        background-color: #F5F5F5;
+        padding: 10px 0px 0px 0px !important;
+        width: 25% !important;
+    }
+    .list_item .col-md-3{
+        width: 100%;
+    }
+    .tp_one{
+        background-color: #F5F5F5;
+        padding: 10px;
+        width: 30% !important;
+    }
+    .tp_one img{
+        height: 410px;
+    }
+    .card_image_area{
+        width: 40% !important;
+    }
+    .image_card{
+        background-color: #F5F5F5;
+        padding: 10px;
+
+    }
+    .image_card h4{
+        font-size: 14px;
+        color: #007185;
+    }
+    .list-group li{
+        font-family: inherit !important;
+        background-color: #F5F5F5;
+    }
+    .list-group li a{
+        color: black;
+    }
+    .list-group li a:hover{
+        text-decoration: none !important;
+        color: red !important;
+        transition: .5s ease-in;
+    }
+    .grid{
+        margin-top: 10px !important;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .top-products{
+        padding: 0px !important;
+    }
+    .top-products .title hr{
+        width: 150px;
+        text-align: center;
+        margin-top: 4px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        background-color: #FA1818;
+    }
+    .list_item{
+        background-color: #F5F5F5;
+        padding: 10px 0px 0px 0px !important;
+        width: 25% !important;
+    }
+    .list_item .col-md-3{
+        width: 100%;
+    }
+    .tp_one{
+        background-color: #F5F5F5;
+        padding: 10px;
+        width: 30% !important;
+    }
+    .tp_one img{
+        height: 410px;
+    }
+    .card_image_area{
+        width: 40% !important;
+    }
+    .image_card{
+        background-color: #F5F5F5;
+        padding: 10px;
+
+    }
+    .image_card h4{
+        font-size: 14px;
+        color: #007185;
+    }
+    .list-group li{
+        font-family: inherit !important;
+        background-color: #F5F5F5;
+    }
+    .list-group li a{
+        color: black;
+    }
+    .list-group li a:hover{
+        text-decoration: none !important;
+        color: red !important;
+        transition: .5s ease-in;
+    }
+    .grid{
+        margin-top: 10px !important;
+    }
+}

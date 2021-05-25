@@ -1,0 +1,90 @@
+@media screen and (max-width: 410px)  and (min-width: 0px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin: 0px;
+        height: 35px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width: 566px)  and (min-width: 411px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin: 0px;
+        height: 35px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width: 767px) and (min-width: 567px)  {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin: 0px;
+        height: 35px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width: 993px) and (min-width: 768px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin: 0px;
+        height: 35px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin: 0px;
+        height: 35px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+        margin-top: 5px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin: 0px;
+        height: 35px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+        margin-top: 5px;
+    }
+    .products-bredcrumb a{
+        color: black !important;
+    }
+    .products-bredcrumb a:hover{
+        text-decoration: none;
+    }
+}

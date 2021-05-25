@@ -1,0 +1,545 @@
+@media screen and (max-width: 400px) and (min-width: 0px){
+    .container{
+        max-width: 100% !important;
+    }
+    .header-main .col_1{
+        background-color: #84C639;
+        text-align: center;
+        height: 50px;
+        width: 25%;
+    }
+    .header-main .col_2{
+        width: 45%;
+    }
+    .header-main .col_1 h5{
+        font-size: 18px;
+    }
+    .header-main .col_1 h5 a{
+        color: white !important;
+    }
+    .header-main .col_1 h5 a:hover{
+        text-decoration: none;
+    }
+    .header-main .container{
+        width: 100% !important;
+    }
+    .header-main .search_box{
+        width: 75%;
+        height: 50px;
+        padding: 0px;
+        
+    }
+    .header-main .search_box:hover{
+        cursor: pointer;
+    }
+    .header-main .search-icon{
+        background: red;
+        padding: 13px;
+        text-align: center;
+    }
+    .header-main .search_box input{
+        border-radius: 0px !important;
+        height: 100%;
+    }
+    .bg-dark{
+        height: 50px;
+    }
+    .col-md-3 button{
+        border-radius: 0px !important;
+        height: 40px;
+    }
+    .header-main .search_btn{
+        width: 10%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .btn-outline-warning{
+        border-color: black !important
+    }
+    .header-main .view-cart{
+        width: 15% !important;
+        margin-top: 15px;
+    }
+    .header-main .contact-us{
+        width: 15% !important;
+    }
+    .header-main .view-cart h3{
+        font-size: 15px;
+    }
+
+    .header-main .contact-us h3{
+        font-size: 28px;
+    }
+    .contact-us{
+        background-color: #343a40;
+        height: 40px;
+    }
+    .contact-us h3{
+        text-align: center !important;
+    }
+}
+@media screen and (max-width: 500px) and (min-width: 401px){
+    .container{
+        max-width: 100% !important;
+    }
+    .header-main .col_1{
+        background-color: #84C639;
+        text-align: center;
+        height: 50px;
+        width: 25%;
+    }
+    .header-main .col_2{
+        width: 45%;
+    }
+    .header-main .col_1 h5{
+        font-size: 18px;
+    }
+    .header-main .col_1 h5 a{
+        color: white !important;
+    }
+    .header-main .col_1 h5 a:hover{
+        text-decoration: none;
+    }
+    .header-main .container{
+        width: 100% !important;
+    }
+    .header-main .search_box{
+        width: 75%;
+        height: 50px;
+        padding: 0px;
+        
+    }
+    .header-main .search_box:hover{
+        cursor: pointer;
+    }
+    .header-main .search-icon{
+        background: red;
+        padding: 13px;
+        text-align: center;
+    }
+    .header-main .search_box input{
+        border-radius: 0px !important;
+        height: 100%;
+    }
+    .bg-dark{
+        height: 50px;
+    }
+    .col-md-3 button{
+        border-radius: 0px !important;
+        height: 40px;
+    }
+    .header-main .search_btn{
+        width: 10%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .btn-outline-warning{
+        border-color: black !important
+    }
+    .header-main .view-cart{
+        width: 15% !important;
+        margin-top: 15px;
+    }
+    .header-main .contact-us{
+        width: 15% !important;
+    }
+    .header-main .view-cart h3{
+        font-size: 15px;
+    }
+
+    .header-main .contact-us h3{
+        font-size: 28px;
+    }
+    .contact-us{
+        background-color: #343a40;
+        height: 40px;
+    }
+    .contact-us h3{
+        text-align: center !important;
+    }
+}
+@media screen and (max-width: 575px) and (min-width: 501px){
+    .container{
+        max-width: 100% !important;
+    }
+    .header-main .col_1{
+        background-color: #84C639;
+        text-align: center;
+        height: 50px;
+        width: 25%;
+    }
+    .header-main .col_2{
+        width: 45%;
+    }
+    .header-main .col_1 h5{
+        font-size: 18px;
+    }
+    .header-main .col_1 h5 a{
+        color: white !important;
+    }
+    .header-main .col_1 h5 a:hover{
+        text-decoration: none;
+    }
+    .header-main .container{
+        width: 100% !important;
+    }
+    .header-main .search_box{
+        width: 75%;
+        height: 50px;
+        padding: 0px;
+        
+    }
+    .header-main .search_box:hover{
+        cursor: pointer;
+    }
+    .header-main .search-icon{
+        background: red;
+        padding: 13px;
+        text-align: center;
+    }
+    .header-main .search_box input{
+        border-radius: 0px !important;
+        height: 100%;
+    }
+    .bg-dark{
+        height: 50px;
+    }
+    .col-md-3 button{
+        border-radius: 0px !important;
+        height: 40px;
+    }
+    .header-main .search_btn{
+        width: 10%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .btn-outline-warning{
+        border-color: black !important
+    }
+    .header-main .view-cart{
+        width: 15% !important;
+        margin-top: 15px;
+    }
+    .header-main .contact-us{
+        width: 15% !important;
+    }
+    .header-main .view-cart h3{
+        font-size: 15px;
+    }
+
+    .header-main .contact-us h3{
+        font-size: 28px;
+    }
+    .contact-us{
+        background-color: #343a40;
+        height: 40px;
+    }
+    .contact-us h3{
+        text-align: center !important;
+    }
+}
+@media screen and (max-width: 767px) and (min-width: 576px){
+    .container{
+        max-width: 100% !important;
+    }
+    .header-main .col_1{
+        background-color: #84C639;
+        text-align: center;
+        height: 50px;
+        width: 25%;
+    }
+    .header-main .col_2{
+        width: 45%;
+        padding-right: 20px;
+    }
+    .header-main .col_1 h5{
+        font-size: 18px;
+    }
+    .header-main .col_1 h5 a{
+        color: white !important;
+    }
+    .header-main .col_1 h5 a:hover{
+        text-decoration: none;
+    }
+    .header-main .container{
+        width: 100% !important;
+    }
+    .header-main .search_box{
+        width: 75%;
+        height: 50px;
+        padding: 5px 0px 5px 5px;
+        
+    }
+    .header-main .search_box:hover{
+        cursor: pointer;
+    }
+    .header-main .search-icon{
+        background: red;
+        margin-top: 5px;
+        padding: 7px;
+        text-align: center;
+    }
+    .header-main .search_box input{
+        border-radius: 0px !important;
+    }
+    .bg-dark{
+        height: 50px;
+    }
+    .col-md-3 button{
+        border-radius: 0px !important;
+        height: 40px;
+    }
+    .header-main .search_btn{
+        width: 10%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .btn-outline-warning{
+        border-color: black !important
+    }
+    .header-main .view-cart{
+        width: 15% !important;
+        margin-top: 15px;
+    }
+    .header-main .contact-us{
+        width: 15% !important;
+    }
+    .header-main .view-cart h3{
+        font-size: 15px;
+    }
+
+    .header-main .contact-us h3{
+        font-size: 15px;
+        margin-top: 10px !important;
+    }
+    .contact-us{
+        background-color: #FA1818;
+    }
+}
+@media screen and (max-width: 810px) and (min-width: 768px){
+    .container{
+        max-width: 100% !important;
+    }
+    .header-main .col_1{
+        background-color: #84C639;
+        text-align: center;
+        height: 50px;
+        width: 25%;
+    }
+    .header-main .col_2{
+        width: 45%;
+        padding-right: 20px;
+    }
+    .header-main .col_1 h5{
+        font-size: 17px;
+    }
+    .header-main .col_1 h5 a{
+        color: white !important;
+    }
+    .header-main .col_1 h5 a:hover{
+        text-decoration: none;
+        color: white;
+    }
+    .header-main .container{
+        width: 100% !important;
+    }
+    .header-main .search_box{
+        width: 75%;
+        height: 50px;
+        padding: 5px 0px 5px 5px;
+        
+    }
+    .header-main .search_box:hover{
+        cursor: pointer;
+    }
+    .header-main .search-icon{
+        background: red;
+        margin-top: 5px;
+        padding: 7px;
+        text-align: center;
+    }
+    .header-main .search_box input{
+        border-radius: 0px !important;
+    }
+    .bg-dark{
+        height: 50px;
+    }
+    .col-md-3 button{
+        border-radius: 0px !important;
+        height: 40px;
+    }
+    .header-main .search_btn{
+        width: 10%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .btn-outline-warning{
+        border-color: black !important
+    }
+    .header-main .view-cart{
+        width: 15% !important;
+        margin-top: 15px;
+    }
+    .header-main .contact-us{
+        width: 15% !important;
+    }
+    .header-main .view-cart h3{
+        font-size: 15px;
+    }
+
+    .header-main .contact-us h3{
+        font-size: 20px;
+        margin-top: 10px !important;
+    }
+    .contact-us{
+        background-color: #FA1818;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 811px) {
+    .container{
+        max-width: 100% !important;
+    }
+    .header-main .col_1{
+        background-color: #84C639;
+        text-align: center;
+        height: 50px;
+        width: 25%;
+    }
+    .header-main .col_2{
+        width: 45%;
+        padding-right: 20px;
+    }
+    .header-main .col_1 h5{
+        font-size: 18px;
+    }
+    .header-main .container{
+        width: 100% !important;
+    }
+    .header-main .search_box{
+        width: 75%;
+        height: 50px;
+        padding: 5px 0px 5px 5px;
+        
+    }
+    .header-main .search_box:hover{
+        cursor: pointer;
+    }
+    .header-main .search-icon{
+        background: red;
+        margin-top: 5px;
+        padding: 7px;
+        text-align: center;
+    }
+    .header-main .search_box input{
+        border-radius: 0px !important;
+    }
+    .bg-dark{
+        height: 50px;
+    }
+    .col-md-3 button{
+        border-radius: 0px !important;
+        height: 40px;
+    }
+    .header-main .search_btn{
+        width: 10%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .btn-outline-warning{
+        border-color: black !important
+    }
+    .header-main .view-cart{
+        width: 15% !important;
+        margin-top: 15px;
+    }
+    .header-main .contact-us{
+        width: 15% !important;
+    }
+    .header-main .view-cart h3{
+        font-size: 15px;
+    }
+
+    .header-main .contact-us h3{
+        font-size: 20px;
+        margin-top: 10px !important;
+    }
+    .contact-us{
+        background-color: #FA1818;
+    }
+}
+@media screen and (min-width: 992px){
+    .container{
+        max-width: 100% !important;
+    }
+    .header-main .col_1{
+        background-color: #84C639;
+        text-align: center;
+        height: 50px;
+        width: 25%;
+    }
+    .header-main .col_2{
+        width: 45%;
+        padding-right: 20px;
+    }
+    .header-main .col_1 h5 a{
+        font-size: 22px;
+        color: white !important;
+    }
+    .header-main .col_1 h5 a:hover{
+        text-decoration: none;
+    }
+    .header-main .container{
+        width: 100% !important;
+    }
+    .header-main .search_box{
+        width: 75%;
+        height: 50px;
+        padding: 5px 0px 5px 5px;
+        
+    }
+    .header-main .search_box:hover{
+        cursor: pointer;
+    }
+    .header-main .search-icon{
+        background: red;
+        margin-top: 5px;
+        padding: 7px;
+        text-align: center;
+    }
+    .header-main .search_box input{
+        border-radius: 0px !important;
+    }
+    .bg-dark{
+        height: 50px;
+    }
+    .col-md-3 button{
+        border-radius: 0px !important;
+        height: 40px;
+    }
+    .header-main .search_btn{
+        width: 10%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .btn-outline-warning{
+        border-color: black !important
+    }
+    .header-main .view-cart{
+        width: 15% !important;
+        margin-top: 15px;
+    }
+    .header-main .contact-us{
+        width: 15% !important;
+    }
+    .header-main .view-cart h3{
+        font-size: 15px;
+    }
+
+    .header-main .contact-us h3{
+        font-size: 20px;
+        margin-top: 10px !important;
+    }
+    .contact-us{
+        background-color: #84C639;
+    }
+}

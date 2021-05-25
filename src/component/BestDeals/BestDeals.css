@@ -1,0 +1,883 @@
+@media screen and (max-width: 466px)  and (min-width: 0px){
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin-top: 15px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+
+    .best-deals-navbar .container{
+        max-width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .best-deals-navbar .list-group{
+        width: 100% !important;
+    }
+    .list_area{
+        padding: 0px !important;
+    }
+    .navbar-expand-lg{
+        padding-top: 0px !important;
+    }
+    .slide_area{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .slide_area .slide-img{
+        margin: 0px !important;
+        --bs-gutter-x: 0px
+    }
+    .slide_area .slide-img .col-12{
+        padding-right: 0 !important;
+    }
+    .slide_area img{
+        width: 100%;
+        height: 410px;
+    }
+
+    .grocery-store{
+        padding: 40px 10px 0px 25px !important;
+    }
+    .photo-frame{
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+
+    .photo-frame .grocery-img img{
+        width: 100%;
+        height: 200px;
+    }
+    .grocery-details{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 200px;
+        color: white;
+        display: none;
+        text-align: center;
+        
+    }
+    .photo-frame:hover .grocery-details{
+        display: block;
+        background-color: rgb(255, 0, 0);
+    }
+    .grocery-details h4{
+        background-color: #320505;
+        /* text-align: center; */
+        margin-top: 60px !important;
+        height: 32px;
+    }
+    .grocery-details small{
+        padding: 10px;
+    }
+    .grocery-store h4{
+        font-weight: bold;
+        margin-top: .5em;
+    }
+    .grocery-store ol{
+        padding-left: 18px;
+    }
+    .grocery-store ol li{
+        color: #999;
+        font-size: 14px;
+        line-height: 2;
+    }
+
+
+    /* Banner Area */
+    .banner{
+        --bs-gutter-x: 0px !important;
+    }
+
+    /* populer-brand-area */
+    .populer-brand-area{
+        margin-top: 60px !important;
+    }
+    .populer-brand-area{
+        --bs-gutter-x: 0px !important;
+    }
+    .populer-brand-area h2{
+        text-align: center;
+        font-size: 35px;
+    }
+    .hot-offer{
+        --bs-gutter-x: 0 !important;
+    }
+    .populer-brand-area img{
+        height: auto !important;
+    }
+    .brand-product{
+        width: 100% !important;
+        padding: 10px;
+    }
+    .food{
+        margin-top: 45px;
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 575px)  and (min-width: 467px){
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin-top: 15px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+
+    .best-deals-navbar .container{
+        max-width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .best-deals-navbar .list-group{
+        width: 100% !important;
+    }
+    .list_area{
+        padding: 0px !important;
+    }
+    .navbar-expand-lg{
+        padding-top: 0px !important;
+    }
+    .slide_area{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .slide_area .slide-img{
+        margin: 0px !important;
+        --bs-gutter-x: 0px
+    }
+    .slide_area img{
+        width: 100%;
+        height: 410px;
+    }
+
+    .grocery-store{
+        padding: 40px 0px 0px 25px !important;
+    }
+    .photo-frame{
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+
+    .photo-frame .grocery-img img{
+        width: 100%;
+        height: 200px;
+    }
+    .grocery-details{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 200px;
+        color: white;
+        display: none;
+        text-align: center;
+        
+    }
+    .photo-frame:hover .grocery-details{
+        display: block;
+        background-color: rgb(255, 0, 0);
+    }
+    .grocery-details h4{
+        background-color: #320505;
+        /* text-align: center; */
+        margin-top: 60px !important;
+        height: 32px;
+    }
+    .grocery-details small{
+        padding: 10px;
+    }
+    .grocery-store h4{
+        font-weight: bold;
+        margin-top: .5em;
+    }
+    .grocery-store ol{
+        padding-left: 18px;
+    }
+    .grocery-store ol li{
+        color: #999;
+        font-size: 14px;
+        line-height: 2;
+    }
+
+
+    /* Banner Area */
+    .banner{
+        --bs-gutter-x: 0px !important;
+    }
+
+    /* populer-brand-area */
+    .populer-brand-area{
+        margin-top: 60px !important;
+    }
+    .populer-brand-area{
+        --bs-gutter-x: 0px !important;
+    }
+    .populer-brand-area h2{
+        text-align: center;
+        font-size: 35px;
+    }
+    .hot-offer{
+        --bs-gutter-x: 0 !important;
+    }
+    .populer-brand-area img{
+        height: 100% !important;
+    }
+    .brand-product{
+        width: 47% !important;
+        margin-right: 5px !important;
+        margin-left: 9px;
+        margin-top: 9px !important;
+    }
+    .food{
+        margin-top: 45px;
+        margin-left: 10px;
+    }
+} 
+@media screen and (max-width: 600px)  and (min-width: 576px){
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin-top: 15px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+
+    .best-deals-navbar .container{
+        max-width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .best-deals-navbar .list-group{
+        width: 100% !important;
+    }
+    .list_area{
+        padding: 0px !important;
+        margin-top: 10px;
+    }
+    .navbar-expand-lg{
+        padding-top: 0px !important;
+    }
+    .slide_area{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .slide_area .slide-img{
+        margin: 0px !important;
+        --bs-gutter-x: 0px
+    }
+    .slide_area img{
+        width: 100%;
+        height: 410px;
+    }
+
+    .grocery-store{
+        padding: 40px 10px 0px 25px !important;
+    }
+    .photo-frame{
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+
+    .photo-frame .grocery-img img{
+        width: 100%;
+        height: 200px;
+    }
+    .grocery-details{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 200px;
+        color: white;
+        display: none;
+        text-align: center;
+        
+    }
+    .photo-frame:hover .grocery-details{
+        display: block;
+        background-color: rgb(255, 0, 0);
+    }
+    .grocery-details h4{
+        background-color: #320505;
+        /* text-align: center; */
+        margin-top: 60px !important;
+        height: 32px;
+    }
+    .grocery-details small{
+        padding: 10px;
+    }
+    .grocery-store h4{
+        font-weight: bold;
+        margin-top: .5em;
+    }
+    .grocery-store ol{
+        padding-left: 18px;
+    }
+    .grocery-store ol li{
+        color: #999;
+        font-size: 14px;
+        line-height: 2;
+    }
+
+
+    /* Banner Area */
+    .banner{
+        --bs-gutter-x: 0px !important;
+    }
+
+    /* populer-brand-area */
+    .populer-brand-area{
+        margin-top: 60px !important;
+    }
+    .populer-brand-area{
+        --bs-gutter-x: 0px !important;
+    }
+    .populer-brand-area h2{
+        text-align: center;
+        font-size: 35px;
+    }
+    .hot-offer{
+        --bs-gutter-x: 0 !important;
+    }
+    .populer-brand-area img{
+        height: 130px !important;
+    }
+    .brand-product{
+        width: 47% !important;
+        margin-top: 9px !important;
+        padding-right: 0px !important;
+    }
+    .food{
+        margin-top: 45px;
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 767px)  and (min-width: 601px){
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin-top: 15px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+
+    .best-deals-navbar .container{
+        max-width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .best-deals-navbar .list-group{
+        width: 100% !important;
+    }
+    .list_area{
+        padding: 0px !important;
+    }
+    .navbar-expand-lg{
+        padding-top: 0px !important;
+    }
+    .slide_area{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .slide_area .slide-img{
+        margin: 0px !important;
+        --bs-gutter-x: 0px
+    }
+    .slide_area img{
+        width: 100%;
+        height: 410px;
+    }
+
+    .grocery-store{
+        padding: 10px 0px 10px 10px!important;
+        width: 50% !important;
+    }
+    .photo-frame{
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+
+    .photo-frame .grocery-img img{
+        width: 100%;
+        height: 200px;
+    }
+    .grocery-details{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 200px;
+        color: white;
+        display: none;
+        text-align: center;
+        
+    }
+    .photo-frame:hover .grocery-details{
+        display: block;
+        background-color: rgb(255, 0, 0);
+    }
+    .grocery-details h4{
+        background-color: #320505;
+        /* text-align: center; */
+        margin-top: 60px !important;
+        height: 32px;
+    }
+    .grocery-details small{
+        padding: 10px;
+    }
+    .grocery-store h4{
+        font-weight: bold;
+        margin-top: .5em;
+    }
+    .grocery-store ol{
+        padding-left: 18px;
+    }
+    .grocery-store ol li{
+        color: #999;
+        font-size: 14px;
+        line-height: 2;
+    }
+
+
+    /* Banner Area */
+    .banner{
+        --bs-gutter-x: 0px !important;
+        padding: 15px;
+    }
+
+    /* populer-brand-area */
+    .populer-brand-area{
+        margin-top: 60px !important;
+    }
+    .populer-brand-area{
+        --bs-gutter-x: 0px !important;
+    }
+    .populer-brand-area h2{
+        text-align: center;
+        font-size: 35px;
+    }
+    .hot-offer{
+        --bs-gutter-x: 0 !important;
+    }
+    .populer-brand-area img{
+        height: 130px !important;
+    }
+    .brand-product{
+        width: 47% !important;
+        margin-top: 9px !important;
+        padding-right: 0px !important;
+    }
+    .food{
+        margin-top: 45px;
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 991px)  and (min-width: 768px){
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin-top: 15px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+
+    .best-deals-navbar .container{
+        max-width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .best-deals-navbar .list-group{
+        width: 100% !important;
+    }
+    .list_area{
+        padding: 0px !important;
+    }
+    .navbar-expand-lg{
+        padding-top: 0px !important;
+        margin-top: 10px;
+    }
+    .slide_area{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .slide_area .slide-img{
+        margin: 0px !important;
+        --bs-gutter-x: 0px
+    }
+    .slide_area img{
+        width: 100%;
+        height: 410px;
+    }
+
+    .grocery-store{
+        margin-top: 40px !important;
+        padding: 10px !important;
+    }
+    .photo-frame{
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+
+    .photo-frame .grocery-img img{
+        width: 100%;
+        height: 200px;
+    }
+    .grocery-details{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 200px;
+        color: white;
+        display: none;
+        text-align: center;
+        
+    }
+    .photo-frame:hover .grocery-details{
+        display: block;
+        background-color: rgb(255, 0, 0);
+    }
+    .grocery-details h4{
+        background-color: #320505;
+        /* text-align: center; */
+        margin-top: 60px !important;
+        height: 32px;
+    }
+    .grocery-details small{
+        padding: 10px;
+    }
+    .grocery-store h4{
+        font-weight: bold;
+        margin-top: .5em;
+    }
+    .grocery-store ol{
+        padding-left: 18px;
+    }
+    .grocery-store ol li{
+        color: #999;
+        font-size: 14px;
+        line-height: 2;
+    }
+
+
+    /* Banner Area */
+    .banner{
+        --bs-gutter-x: 0px !important;
+    }
+
+    /* populer-brand-area */
+    .populer-brand-area{
+        margin-top: 60px !important;
+    }
+    .populer-brand-area{
+        --bs-gutter-x: 0px !important;
+    }
+    .populer-brand-area h2{
+        text-align: center;
+        font-size: 35px;
+    }
+    .hot-offer{
+        --bs-gutter-x: 0 !important;
+        margin-top: 30px !important;
+    }
+    .populer-brand-area img{
+        height: 130px !important;
+    }
+    .brand-product{
+        width: 48% !important;
+        margin-top: 9px !important;
+    }
+    .food{
+        margin-top: 45px;
+    }
+}
+@media screen and (max-width: 1199px)  and (min-width: 992px){
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb ul{
+        margin-top: 15px;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+
+    .best-deals-navbar .container{
+        max-width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .best-deals-navbar .list-group{
+        width: 100% !important;
+        margin: 0;
+    }
+    .list_area{
+        padding: 0px !important;
+    }
+    .navbar-expand-lg{
+        padding-top: 0px !important;
+    }
+    .slide_area{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .slide_area .slide-img{
+        margin: 0px !important;
+        --bs-gutter-x: 0px
+    }
+    .slide_area .slide-img .col-12{
+        padding: 0;
+        height: 490px;
+    }
+    .slide_area img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .grocery-store{
+        margin-top: 40px !important;
+        padding: 10px !important;
+    }
+    .photo-frame{
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+
+    .photo-frame .grocery-img img{
+        width: 100%;
+        height: 200px;
+    }
+    .grocery-details{
+        position: absolute;
+        top: 0;
+        width: 300px;
+        height: 200px;
+        color: white;
+        display: none;
+        text-align: center;
+        
+    }
+    .photo-frame:hover .grocery-details{
+        display: block;
+        background-color: rgb(255, 0, 0);
+    }
+    .grocery-details h4{
+        background-color: #320505;
+        /* text-align: center; */
+        margin-top: 60px !important;
+        height: 32px;
+    }
+    .grocery-details small{
+        padding: 10px;
+    }
+    .grocery-store h4{
+        font-weight: bold;
+        margin-top: .5em;
+    }
+    .grocery-store ol{
+        padding-left: 18px;
+    }
+    .grocery-store ol li{
+        color: #999;
+        font-size: 14px;
+        line-height: 2;
+    }
+
+
+    /* Banner Area */
+    .banner{
+        --bs-gutter-x: 0px !important;
+    }
+
+    /* populer-brand-area */
+    .populer-brand-area{
+        margin-top: 60px !important;
+    }
+    .populer-brand-area{
+        --bs-gutter-x: 0px !important;
+    }
+    .populer-brand-area h2{
+        text-align: center;
+        font-size: 35px;
+    }
+    .hot-offer{
+        --bs-gutter-x: 0 !important;
+        margin-top: 30px !important;
+    }
+    .populer-brand-area img{
+        height: 130px !important;
+    }
+    .brand-product{
+        width: 23% !important;
+        margin-right: 0px;
+        padding: 0px 10px 0px 0px !important;
+    }
+    .food{
+        margin-top: 45px;
+    }
+}
+@media screen and (min-width: 1200px){
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+
+    .best-deals-navbar .container{
+        max-width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .best-deals-navbar .list-group{
+        width: 100% !important;
+    }
+    .list_area{
+        padding: 0px !important;
+    }
+    .navbar-expand-lg{
+        padding-top: 0px !important;
+    }
+    .slide_area{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .slide_area .slide-img{
+        margin: 0px !important;
+        --bs-gutter-x: 0px
+    }
+    .slide_area .slide-img .col-12{
+        padding: 0;
+        height: 490px;
+    }
+    .slide_area img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .grocery-store{
+        margin-top: 40px !important;
+        padding: 10px !important;
+    }
+    .photo-frame{
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+
+    .photo-frame .grocery-img img{
+        width: 100%;
+        height: 200px;
+    }
+    .grocery-details{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 200px;
+        color: white;
+        display: none;
+        text-align: center;
+        
+    }
+    .photo-frame:hover .grocery-details{
+        display: block;
+        background-color: rgb(255, 0, 0);
+    }
+    .grocery-details h4{
+        background-color: #320505;
+        /* text-align: center; */
+        margin-top: 60px !important;
+        height: 32px;
+    }
+    .grocery-details small{
+        padding: 10px;
+    }
+    .grocery-store h4{
+        font-weight: bold;
+        margin-top: .5em;
+    }
+    .grocery-store ol{
+        padding-left: 18px;
+    }
+    .grocery-store ol li{
+        color: #999;
+        font-size: 14px;
+        line-height: 1;
+    }
+
+
+    /* Banner Area */
+    .banner{
+        --bs-gutter-x: 0px !important;
+        margin-right: 0px !important;
+        padding-left: 5px !important;
+    }
+
+    /* populer-brand-area */
+    .populer-brand-area{
+        margin-top: 60px !important;
+    }
+    .populer-brand-area{
+        --bs-gutter-x: 0px !important;
+    }
+    .populer-brand-area .popular-brand-title{
+        text-align: center;
+        font-size: 35px;
+    }
+    .populer-brand-area .popular-brand-title hr{
+        width: 240px;
+        text-align: center;
+        margin-top: 4px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        background-color: #FA1818;
+    }
+    .populer-brand-area .brand-title hr{
+        width: 145px;
+        text-align: center;
+        margin-top: 4px;
+        background-color: #FA1818;
+    }
+    .hot-offer{
+        --bs-gutter-x: 0 !important;
+        margin-top: 30px !important;
+        margin-right: 0px !important;
+    }
+    .populer-brand-area img{
+        height: 170px !important;
+    }
+    .brand-product{
+        width: 23% !important;
+        padding-right: 0 !important;
+    }
+    .brand-product .card{
+        width: 100% !important;
+        padding: 10px;
+        /* border: 1px solid darkgray !important; */
+        margin-top: 10px;
+    }
+    .brand-product .card-title{
+        color: #007185 !important;
+        font-size: 16px !important;
+    }
+    
+    .food{
+        margin-top: 45px;
+    }
+}

@@ -1,0 +1,813 @@
+@media screen and (max-width: 399px) and (min-width: 0px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .left_part .container{
+        max-width: 100% !important;
+    }
+    .left_part .list_area{
+        padding: 0px;
+        margin-top: 10px;
+    }
+    .left_part .list-group{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .about-image-area{
+        margin-top: 20px !important;
+    }
+    .about{
+        width: 100% !important;
+    }
+    .about-image-area img{
+        width: 100% !important;
+    }
+
+    .about-image-area .list{
+        margin-top: 10px;
+        width: 100% !important;
+    }
+
+    .about-image-area ol li{
+        line-height: 2;
+    }
+    
+    /* Amazing Part */
+    .amazing-team{
+        background-color: #F5F5F5;
+        margin-top: 60px;
+    }
+    .amazing-team .header{
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .amazing-team .card{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .amazing-team .card-body{
+        text-align: center;
+    }
+    .fa {
+        padding: 10px;
+        font-size: 20px;
+        width: 43px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .testimonial{
+        margin-top: 90px;
+    }
+    
+    .testimonial .testimonial-header{
+        text-align: center;
+        font-size: 2.5em;
+    }
+    .testimonial .content{
+        margin-top: 10px;
+        padding: 45px;
+    }
+    .testimonial .fa-quote-right{
+        padding-left: 0px;
+        margin-left: 0px;
+        color: #84C639;
+    }
+    .testimonial .client{
+        text-align-last: end;
+    }
+    .client span{
+        margin-right: 7px !important;
+        cursor: pointer;
+    }
+    .testimonial .feedback-description{
+        font-size: 14px;
+        color: #999;
+        line-height: 2em;
+    
+    }
+}
+@media screen and (max-width: 575px) and (min-width: 400px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .left_part .container{
+        max-width: 100% !important;
+    }
+    .left_part .list_area{
+        padding: 0px;
+        margin-top: 10px;
+    }
+    .left_part .list-group{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .about-image-area{
+        margin-top: 20px !important;
+    }
+    .about{
+        width: 100% !important;
+    }
+    .about-image-area img{
+        width: 100% !important;
+    }
+
+    .about-image-area .list{
+        margin-top: 10px;
+        width: 100% !important;
+    }
+
+    .about-image-area ol li{
+        line-height: 2;
+    }
+    
+    /* Amazing Part */
+    .amazing-team{
+        background-color: #F5F5F5;
+        margin-top: 60px;
+    }
+    .amazing-team .container{
+        padding: 68px 80px 55px 80px !important;
+    }
+    .amazing-team .header{
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .amazing-team .card{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .amazing-team .card-body{
+        text-align: center;
+    }
+    .fa {
+        padding: 17px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .testimonial{
+        margin-top: 90px;
+    }
+    
+    .testimonial .testimonial-header{
+        text-align: center;
+        font-size: 2.5em;
+    }
+    .testimonial .content{
+        margin-top: 10px;
+        padding: 45px;
+    }
+    .testimonial .fa-quote-right{
+        padding-left: 0px;
+        margin-left: 0px;
+        color: #84C639;
+    }
+    .testimonial .client{
+        text-align-last: end;
+    }
+    .client span{
+        margin-right: 7px !important;
+        cursor: pointer;
+    }
+    .testimonial .feedback-description{
+        font-size: 14px;
+        color: #999;
+        line-height: 2em;
+    
+    }
+}
+@media screen and (max-width: 767px) and (min-width: 576px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .left_part .container{
+        max-width: 100% !important;
+    }
+    .left_part .list_area{
+        padding: 0px;
+        margin-top: 10px;
+    }
+    .left_part .list-group{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .about-image-area{
+        margin-top: 20px !important;
+    }
+    .about img{
+        width: 100%;
+    }
+
+    .about-image-area ol li{
+        line-height: 2;
+    }
+    
+    /* Amazing Part */
+    .amazing-team{
+        background-color: #F5F5F5;
+        margin-top: 60px;
+    }
+    .amazing-team .container{
+        padding: 65px 80px 55px 40px !important;
+    }
+    .amazing-team .header{
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .amazing-team .card{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .amazing-team .card-body{
+        text-align: center;
+    }
+    .fa {
+        padding: 17px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .testimonial{
+        margin-top: 90px;
+    }
+    
+    .testimonial .testimonial-header{
+        text-align: center;
+        font-size: 2.5em;
+    }
+    .testimonial .content{
+        margin-top: 10px;
+        padding: 45px;
+    }
+    .testimonial .fa-quote-right{
+        padding-left: 0px;
+        margin-left: 0px;
+        color: #84C639;
+    }
+    .testimonial .client{
+        text-align-last: end;
+    }
+    .client span{
+        margin-right: 7px !important;
+        cursor: pointer;
+    }
+    .testimonial .feedback-description{
+        font-size: 14px;
+        color: #999;
+        line-height: 2em;
+    
+    }
+}
+@media screen and (max-width: 810px) and (min-width: 768px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .left_part .container{
+        max-width: 100% !important;
+    }
+    .about-us-content{
+        padding: 10px;
+    }
+    .about-us-header{
+        text-align: center;
+        margin-top: 70px;
+        margin-bottom: 25px;
+    }
+    .left_part .list_area{
+        width: 25% !important;
+        padding: 0px;
+        margin-top: 20px;
+    }
+    .about-image-area{
+        margin-top: 20px !important;
+    }
+    .about-image-area .list{
+        margin-top: 20px !important;
+    }
+    .about img{
+        width: 100%;
+    }
+
+    .about-image-area ol li{
+        line-height: 2;
+    }
+    
+    /* Amazing Part */
+    .amazing-team{
+        background-color: #F5F5F5;
+        margin-top: 60px;
+    }
+    .amazing-team .container{
+        padding: 65px 80px 55px 40px !important;
+    }
+    .amazing-team .header{
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .amazing-team .card{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .amazing-team .card-body{
+        text-align: center;
+    }
+    .fa {
+        padding: 14px;
+        font-size: 15px;
+        width: 45px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .testimonial{
+        margin-top: 90px;
+    }
+    
+    .testimonial .testimonial-header{
+        text-align: center;
+        font-size: 2.5em;
+    }
+    .testimonial .content{
+        margin-top: 10px;
+        padding: 45px;
+    }
+    .testimonial .fa-quote-right{
+        padding-left: 0px;
+        margin-left: 0px;
+        color: #84C639;
+    }
+    .testimonial .client{
+        text-align-last: end;
+    }
+    .client span{
+        margin-right: 7px !important;
+        cursor: pointer;
+    }
+    .testimonial .feedback-description{
+        font-size: 14px;
+        color: #999;
+        line-height: 2em;
+    
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 811px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .left_part .container{
+        max-width: 100% !important;
+    }
+    .about-us-content{
+        padding: 35px;
+    }
+    .about-us-header{
+        text-align: center;
+        margin-top: 70px;
+        margin-bottom: 25px;
+    }
+    .left_part .list_area{
+        width: 25% !important;
+        padding: 0px;
+    }
+    .about-image-area{
+        margin-top: 20px !important;
+    }
+    .about img{
+        width: 100%;
+    }
+
+    .about-image-area ol li{
+        line-height: 2;
+    }
+    
+    /* Amazing Part */
+    .amazing-team{
+        background-color: #F5F5F5;
+        margin-top: 60px;
+    }
+    .amazing-team .container{
+        padding: 65px 80px 55px 40px !important;
+    }
+    .amazing-team .header{
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .amazing-team .card{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .amazing-team .card-body{
+        text-align: center;
+    }
+    .fa {
+        padding: 17px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .testimonial{
+        margin-top: 90px;
+    }
+    
+    .testimonial .testimonial-header{
+        text-align: center;
+        font-size: 2.5em;
+    }
+    .testimonial .content{
+        margin-top: 10px;
+        padding: 45px;
+    }
+    .testimonial .fa-quote-right{
+        padding-left: 0px;
+        margin-left: 0px;
+        color: #84C639;
+    }
+    .testimonial .client{
+        text-align-last: end;
+    }
+    .client span{
+        margin-right: 7px !important;
+        cursor: pointer;
+    }
+    .testimonial .feedback-description{
+        font-size: 14px;
+        color: #999;
+        line-height: 2em;
+    
+    }
+}
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .left_part .container{
+        max-width: 100% !important;
+    }
+    .about-us-content{
+        padding: 35px;
+    }
+    .about-us-header{
+        text-align: center;
+        margin-top: 70px;
+        margin-bottom: 25px;
+    }
+    .left_part .list_area{
+        width: 25% !important;
+        padding: 0px;
+    }
+
+    .about-image-area{
+        margin-top: 20px !important;
+    }
+    .about img{
+        width: 100%;
+    }
+
+    .about-image-area ol li{
+        line-height: 2;
+    }
+    .collapse{
+        width: 100% !important;
+    }
+    .collapse .list-group{
+        width: 100%;
+    }
+    /* Amazing Part */
+    .amazing-team{
+        background-color: #F5F5F5;
+        margin-top: 60px;
+    }
+    .amazing-team .container{
+        padding: 65px 80px 55px 40px !important;
+    }
+    .amazing-team .header{
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .amazing-team .card-body{
+        text-align: center;
+    }
+    .fa {
+        padding: 11px;
+        font-size: 13px;
+        width: 35px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .testimonial{
+        margin-top: 90px;
+    }
+    
+    .testimonial .testimonial-header{
+        text-align: center;
+        font-size: 2.5em;
+    }
+    .testimonial .content{
+        margin-top: 10px;
+        padding: 45px;
+    }
+    .testimonial .fa-quote-right{
+        padding-left: 0px;
+        margin-left: 0px;
+        color: #84C639;
+    }
+    .testimonial .client{
+        text-align-last: end;
+    }
+    .client span{
+        margin-right: 7px !important;
+        cursor: pointer;
+    }
+    .testimonial .feedback-description{
+        font-size: 14px;
+        color: #999;
+        line-height: 2em;
+    
+    }
+}
+@media screen and (min-width: 1200px) {
+    .products-bredcrumb{
+        background-color: #84C639;
+    }
+    .products-bredcrumb li{
+        list-style-type: none;
+        float: left;
+    }
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .left_part .container{
+        max-width: 100% !important;
+    }
+    .about-us-content{
+        padding: 35px;
+    }
+    .about-us-header{
+        text-align: center;
+        margin-top: 70px;
+        margin-bottom: 25px;
+    }
+    .left_part .list_area{
+        width: 25% !important;
+        padding: 0px;
+    }
+
+    .about-image-area{
+        margin-top: 20px !important;
+    }
+    .about img{
+        width: 100%;
+    }
+
+    .about-image-area ol li{
+        line-height: 2;
+    }
+    .collapse{
+        width: 100% !important;
+    }
+    .collapse .list-group{
+        width: 100%;
+    }
+    /* Amazing Part */
+    .amazing-team{
+        background-color: #F5F5F5;
+        margin-top: 60px;
+    }
+    .amazing-team .container{
+        padding: 65px 80px 55px 40px !important;
+    }
+    .amazing-team .header{
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .amazing-team .card-body{
+        text-align: center;
+    }
+    .fa {
+        padding: 17px;
+        font-size: 17px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    
+    .fa-google {
+      background: #dd4b39;
+      color: white;
+    }
+
+    .testimonial{
+        margin-top: 90px;
+    }
+    
+    .testimonial .testimonial-header{
+        text-align: center;
+        font-size: 2.5em;
+    }
+    .testimonial .content{
+        margin-top: 10px;
+        padding: 45px;
+    }
+    .testimonial .fa-quote-right{
+        padding-left: 0px;
+        margin-left: 0px;
+        color: #84C639;
+    }
+    .testimonial .client{
+        text-align-last: end;
+    }
+    .client span{
+        margin-right: 7px !important;
+        cursor: pointer;
+    }
+    .testimonial .feedback-description{
+        font-size: 14px;
+        color: #999;
+        line-height: 2em;
+    }
+}

@@ -1,0 +1,427 @@
+@media screen and (max-width: 575px){
+    .footer{
+        height: auto;
+        background-color: #212121;
+    }
+    .footer .col-12{
+        width: 25%;
+        float: left;
+    }
+    .footer .col-12 p{
+        color: #999;
+    }
+    
+    .footer .connect_with_us{
+        text-align: center;
+    }
+    .footer .payment_method{
+        text-align: center;
+    }
+    .footer .container{
+        border-bottom: 1px solid #80808063;
+        padding: 10px;
+    }
+    .footer .container h3{
+        color: white;
+        font-size: 22px;
+    }
+    .footer .container ul{
+        padding: 0px;
+    }
+    .footer .container li a{
+        color: #999;
+    }
+    .footer .container li a:hover{
+        text-decoration: none !important;
+        color: #e4ff00b3 !important;
+        transition: 0.5s ease-in;
+    }
+    .footer .container li {
+        line-height: 2;
+    }
+    .footer .container a:hover{
+        text-decoration: none;
+    }
+    .fa {
+        padding: 10px !important;
+        font-size: 27px !important;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+      }
+      
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+      
+      .fa-youtube {
+        background: #bb0000;
+        color: white;
+      }
+      .footer-hr{
+        border: 1px solid orange !important;
+        border-top: 1px solid rgba(0,0,0,.1) !important;
+      }
+}
+@media screen and (max-width: 767px) and (min-width: 576px) {
+    .footer{
+        background-color: #212121;
+    }
+    .footer .col-12{
+        width: 25%;
+        float: left;
+    }
+    .footer .col-12 p{
+        color: #999;
+    }
+    
+    .footer .connect_with_us{
+        text-align: center;
+    }
+    .footer .payment_method{
+        text-align: center;
+    }
+    .footer .container{
+        border-bottom: 1px solid #80808063;
+        padding: 40px;
+    }
+    .footer .container h3{
+        color: white;
+        font-size: 22px;
+    }
+    .footer .container ul{
+        padding: 0px;
+    }
+    .footer .container li a{
+        color: #999;
+    }
+    .footer .container li a:hover{
+        text-decoration: none !important;
+        color: #e4ff00b3 !important;
+        transition: 0.5s ease-in;
+    }
+    .footer .container li {
+        line-height: 2;
+    }
+    .footer .container a:hover{
+        text-decoration: none;
+    }
+    .fa {
+        padding: 10px !important;
+        font-size: 27px !important;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+      }
+      
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+      
+      .fa-youtube {
+        background: #bb0000;
+        color: white;
+      }
+      .footer-hr{
+        border: 1px solid orange !important;
+        border-top: 1px solid rgba(0,0,0,.1) !important;
+      }
+}
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .footer{
+        background-color: #212121;
+    }
+    .footer .col-12{
+        width: 25%;
+        float: left;
+    }
+    .footer .col-12 p{
+        color: #999;
+    }
+    
+    .footer .connect_with_us{
+        text-align: center;
+    }
+    .footer .payment_method{
+        text-align: center;
+    }
+    .footer .container{
+        border-bottom: 1px solid #80808063;
+        padding: 40px;
+    }
+    .footer .container h3{
+        color: white;
+        font-size: 22px;
+    }
+    .footer .container ul{
+        padding: 0px;
+    }
+    .footer .container li a{
+        color: #999;
+    }
+    .footer .container li a:hover{
+        text-decoration: none !important;
+        color: #e4ff00b3 !important;
+        transition: 0.5s ease-in;
+    }
+    .footer .container li {
+        line-height: 2;
+    }
+    .footer .container a:hover{
+        text-decoration: none;
+    }
+    .fa {
+        padding: 17px;
+        font-size: 16px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+      }
+      
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+      
+      .fa-youtube {
+        background: #bb0000;
+        color: white;
+      }
+      .footer-hr{
+        border: 1px solid orange !important;
+        border-top: 1px solid rgba(0,0,0,.1) !important;
+      }
+}
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    .footer{
+        background-color: #212121;
+    }
+    .footer .col-12{
+        width: 25%;
+        float: left;
+    }
+    .footer .col-12 p{
+        color: #999;
+    }
+    
+    .footer .connect_with_us{
+        text-align: center;
+    }
+    .footer .payment_method{
+        text-align: center;
+    }
+    .footer .container{
+        border-bottom: 1px solid #80808063;
+        padding: 40px;
+    }
+    .footer .container h3{
+        color: white;
+    }
+    .footer .container li a{
+        color: #999;
+    }
+    .footer .container li a:hover{
+        text-decoration: none !important;
+        color: #e4ff00b3 !important;
+        transition: 0.5s ease-in;
+    }
+    .footer .container li {
+        line-height: 2;
+    }
+    .footer .container a:hover{
+        text-decoration: none;
+    }
+    .fa {
+        padding: 17px;
+        font-size: 16px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+      }
+      
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+      
+      .fa-youtube {
+        background: #bb0000;
+        color: white;
+      }
+      .footer-hr{
+        border: 1px solid orange !important;
+        border-top: 1px solid rgba(0,0,0,.1) !important;
+      }
+}
+@media screen and (min-width: 1200px) {
+    .footer{
+        /* height: 600px; */
+        background-color: #212121;
+    }
+    .footer .col-12{
+        width: 25%;
+        float: left;
+    }
+    .footer .col-12 p{
+        color: #999;
+    }
+    
+    .footer .connect_with_us{
+        text-align: center;
+    }
+    .footer .payment_method{
+        text-align: center;
+    }
+    .footer .container{
+        border-bottom: 1px solid #80808063;
+        padding: 40px;
+    }
+    .footer .container ul{
+        padding-left: 0;
+    }
+    .footer .container h3{
+        color: white;
+    }
+    .footer .container li a{
+        color: #999;
+    }
+    .footer .container li a:hover{
+        text-decoration: none !important;
+        color: #e4ff00b3 !important;
+        transition: 0.5s ease-in;
+    }
+    .footer .container li {
+        line-height: 2;
+    }
+    .footer .container a:hover{
+        text-decoration: none !important;
+    }
+    .fa {
+        padding: 17px;
+        font-size: 16px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+      }
+      
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+      
+      .fa-youtube {
+        background: #bb0000;
+        color: white;
+      }
+      .footer-hr{
+        border: 1px solid orange !important;
+        border-top: 1px solid rgba(0,0,0,.1) !important;
+      }
+}
