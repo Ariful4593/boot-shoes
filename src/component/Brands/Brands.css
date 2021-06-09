@@ -6,6 +6,13 @@
     .fourth_part img{
         width: 100%;
     }
+    .fourth_part h5{
+        color: #007185;
+        font-size: 15px;
+    }
+    .fourth_part .card{
+        padding: 10px;
+    }
 }
 @media screen and (max-width: 767px) and (min-width: 576px) {
     .fourth_part .col-12{
@@ -14,6 +21,13 @@
     }
     .fourth_part img{
         width: 100%;
+    }
+    .fourth_part h5{
+        color: #007185;
+        font-size: 15px;
+    }
+    .fourth_part .card{
+        padding: 10px;
     }
 }
 @media screen and (max-width: 991px) and (min-width: 768px) {
@@ -24,6 +38,13 @@
     .fourth_part img{
         width: 100%;
     }
+    .fourth_part h5{
+        color: #007185;
+        font-size: 15px;
+    }
+    .fourth_part .card{
+        padding: 10px;
+    }
 }
 @media screen and (max-width: 1199px) and (min-width: 992px) {
     .fourth_part .col-12{
@@ -32,6 +53,13 @@
     }
     .fourth_part img{
         width: 100%;
+    }
+    .fourth_part h5{
+        color: #007185;
+        font-size: 15px;
+    }
+    .fourth_part .card{
+        padding: 10px;
     }
 }
 @media screen and (min-width: 1200px){
@@ -48,4 +76,5 @@
         font-size: 16px;
         margin-top: 10px;
     }
+    
 }

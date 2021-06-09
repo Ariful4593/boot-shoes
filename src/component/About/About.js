@@ -37,13 +37,13 @@ const About = () => {
     }
     const handleSecondFeedback = (count) =>{
         setSecondItem(count)
-        console.log(count)
     }
     useEffect(() => {
         if (firstItem !== '') {
             const currentCategory = feedback.filter(item => item.ownerName === firstItem);
             setFeedbackArray(currentCategory)
         }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [firstItem]);
 
     useEffect(() => {
@@ -51,6 +51,7 @@ const About = () => {
             const currentCategory = secondFeedback.filter(item => item.ownerName === secondItem);
             setSecondFeedbackArray(currentCategory)
         }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [secondItem]);
     return (
         <>

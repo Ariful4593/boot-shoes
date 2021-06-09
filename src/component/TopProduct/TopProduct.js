@@ -3,7 +3,7 @@ import './TopProduct.css';
 import topProductList from '../../fakeData/topProductList';
 import listItem from '../../fakeData/listItem';
 const TopProduct = () => {
-    const [fullList, setFullList] = useState([]);
+    const [, setFullList] = useState([]);
     const [currentList, setCurrentList] = useState([]);
     const [currentCategory, setCurrentCategory] = useState('');
     const [allBrands, setAllBrands] = useState([]);

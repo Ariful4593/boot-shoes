@@ -1,40 +1,18 @@
-@media screen and (max-width: 575px) {
-    .top-brands{
-        padding: 1em !important;
-    }
-    .top-brands .brand-product{
-        margin-top: 20px;
-    }
-    .brand-product .card{
-        padding: 10px !important;
-        border: 1px solid darkgray !important;
-    }
-}
-@media screen and (max-width: 767px) and (min-width: 576px) {
-    .top-brands{
-        padding: 1em !important;
-    }
-    .top-brands .brand-product{
-        margin-top: 20px;
-    }
-    .brand-product .card{
-        padding: 10px !important;
-        border: 1px solid darkgray !important;
-    }
-}
-@media screen and (max-width: 399px) and (min-width: 300px) {
+@media screen and (max-width: 499px) and (min-width: 0px) {
+    /* .container{
+        padding-right: 0 !important;
+    } */
     .top-brands{
         padding: 5em 0em 5em 0em !important;
     }
     .top-brands .brand-product{
-        margin-top: 20px;
-        padding-right: 0px !important;
-        padding-left: 25px !important;
+        margin-top: 20px !important;
+        margin-left: 0px !important;
     }
     .brand-product .card{
         width: 100% !important;
-        padding: 0 !important;
         border: none !important;
+        box-shadow: 0px 0px 5px 0px !important;
     }
     .brand-product .card-body{
         padding: 0px !important;
@@ -45,88 +23,35 @@
         color: #007185;
         margin-bottom: 0.25rem !important;
     }
-    .col-lg-2{
-        flex: 0 0 74.666667% !important;
-    }
     .slide-left{
-        width: 20px;
-        margin-left: 10px;
+        position: relative !important   ;
     }
     .slide-left button{
-        margin-top: 130px;
+        margin-top: 178px;
         border-radius: 5px;
         background: 0 0;
         border-block-end-color: red;
         border-block-start-color: goldenrod;
+        position: absolute;
+        margin-left: 20px;
+        z-index: 1;
+    }
+    .trending-row{
+        position: relative;
     }
     .slide-right{
-        width: 54px;
-        margin-left: 10px;
+        position: absolute;
+        margin-top: 178px;
+        text-align-last: end;
     }
     .slide-right button{
-        margin-top: 130px;
         border-radius: 5px;
         background: 0 0;
         border-block-end-color: red;
         border-block-start-color: goldenrod;
     }
-}
-@media screen and (max-width: 499px) and (min-width: 400px) {
-    .top-brands{
-        padding: 5em 0em 5em 0em !important;
-    }
-    .top-brands .title hr{
-        width: 150px;
-        text-align: center;
-        margin-top: 4px;
-        margin-right: auto;
-        margin-bottom: 0px;
-        margin-left: auto;
-        background-color: #FA1818;
-    }
-    .top-brands .brand-product{
-        margin-top: 20px;
-        padding-right: 0px !important;
-        padding-left: 25px !important;
-    }
-    .brand-product .card{
-        width: 100% !important;
-        padding: 0 !important;
-        border: none !important;
-    }
-    .brand-product .card-body{
-        padding: 0px !important;
-        margin-top: 10px;
-    }
-    .brand-product .card-body .card-title{
-        font-size: 14px;
-        color: #007185;
-        margin-bottom: 0.25rem !important;
-    }
-    .col-lg-2{
-        flex: 0 0 74.666667% !important;
-    }
-    .slide-left{
-        width: 20px;
-        margin-left: 10px;
-    }
-    .slide-left button{
-        margin-top: 130px;
-        border-radius: 5px;
-        background: 0 0;
-        border-block-end-color: red;
-        border-block-start-color: goldenrod;
-    }
-    .slide-right{
-        width: 54px;
-        margin-left: 10px;
-    }
-    .slide-right button{
-        margin-top: 130px;
-        border-radius: 5px;
-        background: 0 0;
-        border-block-end-color: red;
-        border-block-start-color: goldenrod;
+    .card-inside-div{
+        padding: 10px;
     }
 }
 @media screen and (max-width: 574px) and (min-width: 500px) {

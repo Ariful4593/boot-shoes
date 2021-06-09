@@ -25,9 +25,7 @@ const HotOffers = () => {
     }
     let screenWidth = window.innerWidth;
     let screenWiseData;
-    if(screenWidth >= 300 && screenWidth <= 399){
-        screenWiseData = trendProductList.slice(0, 1);
-    }else if(screenWidth >= 400 && screenWidth <= 499){
+    if(screenWidth >= 300 && screenWidth <= 499){
         screenWiseData = trendProductList.slice(0, 1);
     }else if(screenWidth >= 500 && screenWidth <= 574){
         screenWiseData = trendProductList.slice(0, 2);
@@ -57,7 +55,7 @@ const HotOffers = () => {
             <div className="container">
                 <h2 className="text-center title"><span>Trending Product</span>
                 <hr /></h2>
-                <div className="row mt-5">
+                <div className="row mt-5 trending-row">
                     <div className="slide-left" id="left-btn">
                         {
                             count === 0 ? '' : <button onClick={() => setCount(count - 1)}><FontAwesomeIcon icon={faArrowLeft} /></button>
@@ -69,7 +67,7 @@ const HotOffers = () => {
 
                                 <div key={pd.to} className="col-12 col-sm-6 col-md-6 col-lg-2 brand-product">
                                     <div className="card">
-                                        <div>
+                                        <div className="card-inside-div">
                                             <a href={`${pd.to}`} target="_blank" rel="noreferrer" >
                                                 <img className="card-img-top" src={pd.img} alt="Card cap" />
                                             </a>

@@ -14,10 +14,12 @@ const Brands = () => {
                             productContent.map(pd => {
                                 return (
                                     <div key={pd.keyId} className="col-12 col-sm-6 col-md-3">
-                                        <Link to={`/product-details/${x.id}/${pd.keyId}/${pd.header}`}>
-                                            <img src={pd.img} alt="" />
-                                            <h5>{pd.title}</h5>
-                                        </Link>
+                                        <div className="card">
+                                            <Link to={`/product-details/${x.id}/${pd.keyId}/${pd.header}`}>
+                                                <img src={pd.img} alt="" />
+                                                <h5>{pd.title}</h5>
+                                            </Link>
+                                        </div>
                                     </div>
                                 )
                             })
